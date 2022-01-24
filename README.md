@@ -1,4 +1,3 @@
-# BAZINGA
 # Hey there, this is Cena! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 This is github account information:
@@ -28,10 +27,11 @@ Feel free contacting me via the following links:
 <!--         <a href="https://cenaashoori.github.io/">
             <img src="https://img.icons8.com/fluency/50/000000/resume-website.png" width=32/>
         </a> -->
-</div>
+<!-- </div>
 
 <p align=center>
 <br>
 <img src="https://visitor-badge.glitch.me/badge?page_id=cenaashoori/cenaashoori">
 
 </p>
+ -->
