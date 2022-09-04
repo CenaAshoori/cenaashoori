@@ -14,7 +14,7 @@ This is github account information:
     </tr>
 </table>
 
-<p></p>
+
 ## Contact Me
 
 Feel free contacting me via the following links:
