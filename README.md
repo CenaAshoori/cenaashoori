@@ -24,9 +24,9 @@ Feel free contacting me via the following links:
         </a>
 <!--         <a href="https://twitter.com/">
             <img src="https://img.icons8.com/color/50/000000/twitter.png" width=32/> -->
-<!--         <a href="https://cenaashoori.github.io/">
+         <a href="https://cenaashoori.github.io/">
             <img src="https://img.icons8.com/fluency/50/000000/resume-website.png" width=32/>
-        </a> -->
+        </a>
 <!-- </div>
 
 <p align=center>
