@@ -32,10 +32,11 @@ Feel free contacting me via the following links:
         <a href="https://kaggle.com/ciniur" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ciniur" height="40" width="40" /></a>
 </p>
 
+<!-- 
 <p align=center >
 <br>
 <img style="display:none;" src="https://visitor-badge.glitch.me/badge?page_id=cenaashoori/cenaashoori">
-</p>
+</p> -->
  
 
 <h3 align="left">Languages and Tools:</h3>
