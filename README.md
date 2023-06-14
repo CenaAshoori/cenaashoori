@@ -28,7 +28,7 @@ Feel free contacting me via the following links:
          <a href="https://cenaashoori.github.io/">
             <img src="https://img.icons8.com/fluency/50/000000/resume-website.png" width=40/>
         </a>
-        <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc8lkrtn9wff4frctr04sxva" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc8lkrtn9wff4frctr04sxva" height="40" width="40" /></a>
+        <a href="https://youtube.com/@techwithcena" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc8lkrtn9wff4frctr04sxva" height="40" width="40" /></a>
         <a href="https://kaggle.com/ciniur" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ciniur" height="40" width="40" /></a>
 </p>
 
