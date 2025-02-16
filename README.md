@@ -71,3 +71,11 @@ Feel free contacting me via the following links:
 <a href="https://github.com/Zhenye-Na/crnn-pytorch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cenaashoori&repo=Estate-Price-Predictor&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a> -->
+
+<!-- Snake Game -->
+
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br>
+  <img src="https://raw.githubusercontent.com/CenaAshoori/cenaashoori/7cdd0fe90fa92995bcc22c43d0a5fd451d5e7dda/github-snake-dark.svg"/>
+</div>
