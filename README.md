@@ -77,5 +77,5 @@ Feel free contacting me via the following links:
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br>
-  <img src="https://raw.githubusercontent.com/CenaAshoori/cenaashoori/7cdd0fe90fa92995bcc22c43d0a5fd451d5e7dda/github-snake-dark.svg"/>
+  <img src="https://github.com/CenaAshoori/cenaashoori/blob/output/github-snake-dark.svg"/>
 </div>
