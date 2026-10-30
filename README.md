@@ -13,7 +13,7 @@ I build software end to end: shaping product flows, designing and implementing t
 
 - **[Abroadin.com](https://abroadin.com/)** — building backend services and product workflows for an international education platform.
 - **[DocSphere](https://docsphere.app/)** — a digital health product with connected care and service workflows.
-- **[Wearto](https://wearto.app/)** — an AI-assisted fashion and commerce experience across web and mobile, including virtual try-on.
+- **[Wearto](https://wearto.app/)** — an AI-assisted fashion and commerce product with a Flutter mobile app and FastAPI backend, including virtual try-on.
 
 ## Experience
 
@@ -36,9 +36,11 @@ More details: [publications](https://cenaashoori.github.io/publications/) · [Go
 
 ## Toolkit
 
-**Frontend:** React, Next.js, TypeScript  
-**Backend:** Python, Django, FastAPI  
-**Product delivery:** UX flows, API design, integrations, deployment, and production iteration
+- **Web:** React, Next.js, TypeScript
+- **Mobile:** Flutter for cross-platform application development
+- **Backend:** Python, FastAPI, Django
+- **AI-assisted engineering:** Experience working across multiple AI coding-agent harnesses
+- **Product delivery:** UX flows, API design, integrations, deployment, and production iteration
 
 ## Contact
 
