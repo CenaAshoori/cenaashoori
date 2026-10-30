@@ -18,7 +18,7 @@ I build software end to end: shaping product flows, designing and implementing t
 ## Experience
 
 - **Backend Developer · [Abroadin.com](https://abroadin.com/)** — Jul 2025–Present.
-- **Backend Developer · [Seana.ai](https://seana.ai/)** — Apr 2025–Jun 2025.
+- **Backend Developer · [Serana AI](https://serana.ai/)** — Apr 2025–Jun 2025.
 - **Python Developer · [AiBrary](https://aibrary.dev/)** — Oct 2024–Jun 2025.
 - **Full-Stack Developer · Moji** — 2021–2023.
 - **Teaching Assistant & Head Teaching Assistant · Vali-e-Asr University** — Sep 2021–Jul 2022. Supported Data Structures, Algorithms, Discrete Mathematics, and Operating Systems; served as Head TA for Discrete Mathematics.
