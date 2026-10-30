@@ -18,6 +18,8 @@ I build software end to end: shaping product flows, designing and implementing t
 ## Experience
 
 - **Backend Developer · [Abroadin.com](https://abroadin.com/)** — Jul 2025–Present.
+
+  I build backend capabilities for Pro AbroadIn, connecting academic-opportunity discovery and matching with configurable education services. My work includes Python/Django APIs, crawlers and data pipelines that normalize programs and positions, configurable contracts and service workflows, and CRM customization. I’ve also delivered email-tracking and CV-generation dashboards with Celery-backed background jobs, automated consultation workflows in WordPress, and program/institution publishing improvements. Across production application and payment workflows, I bring careful role-aware access, lifecycle debugging, and end-to-end ownership from data and APIs through admin tools, integrations, releases, and operational follow-through.
 - **Backend Developer · [Serana AI](https://serana.ai/)** — Apr 2025–Jun 2025.
 - **Python Developer · [AiBrary](https://aibrary.dev/)** — Oct 2024–Jun 2025.
 - **Full-Stack Developer · Moji** — 2021–2023.
