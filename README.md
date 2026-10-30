@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="images/profile.png" alt="Portrait of Mohammad Hosein (Cena) Ashoori" width="160" height="160" />
   <h1>Mohammad Hosein (Cena) Ashoori</h1>
   <p><strong>Software Engineer · Full-Stack Product Builder · Researcher</strong></p>
+  <p>Backend Developer at <a href="https://abroadin.com/">Abroadin.com</a></p>
   <p>Taking thoughtful applications from first idea to polished production.</p>
 </div>
 
@@ -11,8 +11,19 @@ I build software end to end: shaping product flows, designing and implementing t
 
 ## Selected work
 
+- **[Abroadin.com](https://abroadin.com/)** — building backend services and product workflows for an international education platform.
 - **[DocSphere](https://docsphere.app/)** — a digital health product with connected care and service workflows.
 - **[Wearto](https://wearto.app/)** — an AI-assisted fashion and commerce experience across web and mobile, including virtual try-on.
+
+## Experience
+
+- **Backend Developer · [Abroadin.com](https://abroadin.com/)** — Jul 2025–Present.
+- **Backend Developer · [Seana.ai](https://seana.ai/)** — Apr 2025–Jun 2025.
+- **Python Developer · [AiBrary](https://aibrary.dev/)** — Oct 2024–Jun 2025.
+- **Full-Stack Developer · Moji** — 2021–2023.
+- **Teaching Assistant & Head Teaching Assistant · Vali-e-Asr University** — Sep 2021–Jul 2022. Supported Data Structures, Algorithms, Discrete Mathematics, and Operating Systems; served as Head TA for Discrete Mathematics.
+
+More experience details: [LinkedIn experience](https://www.linkedin.com/in/mhashoori/details/experience/).
 
 ## Research
 
